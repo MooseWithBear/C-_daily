@@ -1,2 +1,2 @@
-# C-_daily
+# C#_daily
 daily study c#
