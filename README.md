@@ -1,2 +1,3 @@
 # C#_daily
-daily study c#
+daily learning log c#....
+someday?
